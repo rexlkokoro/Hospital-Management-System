@@ -1,8 +1,9 @@
 admin|admin123|Admin
 doctor|doc123|Doctor
 reception|rec123|Receptionist
-dr_sharma|doc123|Doctor
-dr_verma|doc123|Doctor
-dr_iyer|doc123|Doctor
-dr_patel|doc123|Doctor
-dr_gupta|doc123|Doctor
+dr_rajesh|doc123|Doctor
+dr_anita|doc123|Doctor
+dr_vikram|doc123|Doctor
+dr_sunita|doc123|Doctor
+dr_amit|doc123|Doctor
+dr_pooja|doc123|Doctor

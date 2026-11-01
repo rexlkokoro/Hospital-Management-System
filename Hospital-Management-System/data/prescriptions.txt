@@ -4,3 +4,4 @@ RX1003|250003|D105|Levocetirizine 5mg + Montelukast 10mg|Once daily at bedtime|1
 RX1004|250005|D101|Atorvastatin 20mg + Aspirin 75mg|Once daily after dinner|90 days
 RX1005|250006|D103|Aceclofenac 100mg + Paracetamol 325mg|Twice daily after food|5 days
 RX1006|250007|D102|Ursodeoxycholic acid 300mg|Twice daily with meals|30 days
+RX1007|250009|D105|Pantoprazole 40mg|Once daily empty stomach|15 days

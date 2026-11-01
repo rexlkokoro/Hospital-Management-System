@@ -1,6 +1,6 @@
-D101|Rajesh Sharma|48|9811223344|Cardiologist|800|1
-D102|Priya Iyer|41|9822334455|Neurologist|900|1
-D103|Amitabh Verma|52|9833445566|Orthopedic Surgeon|750|1
-D104|Sunita Patel|38|9844556677|Pediatrician|600|1
-D105|Vikram Malhotra|45|9855667788|General Physician|500|1
-D106|Ananya Sen|36|9866778899|Dermatologist|650|1
+D101|Rajesh Kumar|48|9811223344|Cardiologist|800.00|1
+D102|Anita Kumari|41|9822334455|Neurologist|900.00|1
+D103|Vikram Singh|52|9833445566|Orthopedic Surgeon|750.00|1
+D104|Sunita Kumari|38|9844556677|Pediatrician|600.00|1
+D105|Amit Kumar|45|9855667788|General Physician|500.00|1
+D106|Pooja Singh|36|9866778899|Dermatologist|650.00|1
