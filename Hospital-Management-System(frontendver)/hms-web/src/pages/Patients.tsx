@@ -102,7 +102,7 @@ export function PatientsPage() {
       accessorKey: "address",
       header: "Address",
       cell: ({ row }) => (
-        <span className="truncate max-w-[200px] inline-block" title={row.original.address}>
+        <span className="whitespace-normal break-words min-w-[180px] max-w-[320px] inline-block leading-relaxed" title={row.original.address}>
           {row.original.address || "-"}
         </span>
       ),
@@ -111,7 +111,7 @@ export function PatientsPage() {
       accessorKey: "medicalHistory",
       header: "Medical History",
       cell: ({ row }) => (
-        <span className="truncate max-w-[150px] inline-block text-xs text-zinc-500">
+        <span className="whitespace-normal break-words min-w-[140px] max-w-[220px] inline-block text-xs text-zinc-500 leading-relaxed" title={row.original.medicalHistory}>
           {row.original.medicalHistory}
         </span>
       ),
