@@ -1,0 +1,9 @@
+[build]
+  base = "Hospital-Management-System(frontendver)/hms-web"
+  publish = "Hospital-Management-System(frontendver)/hms-web/dist"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
