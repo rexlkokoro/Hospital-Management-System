@@ -1,10 +1,19 @@
 # Project digest file
 rexlkokoro-hospital-management-system-8a5edab282632443.txt
 
-# Executables
+# Executables & C++ build
 *.o
 *.obj
-
-
 *.exe
 **/*.exe
+
+# Node dependencies & web builds
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.DS_Store
+
+# Frontend scratch & ingest
+**/projectcontext.txt
+**/HMS-build-steps.md
