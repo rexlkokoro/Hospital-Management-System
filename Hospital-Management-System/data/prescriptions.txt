@@ -1,0 +1,6 @@
+RX1001|250001|D101|Telmisartan 40mg|Once daily after breakfast|30 days
+RX1002|250002|D105|Metformin 500mg + Glimepiride 1mg|Twice daily before meals|60 days
+RX1003|250003|D105|Levocetirizine 5mg + Montelukast 10mg|Once daily at bedtime|14 days
+RX1004|250005|D101|Atorvastatin 20mg + Aspirin 75mg|Once daily after dinner|90 days
+RX1005|250006|D103|Aceclofenac 100mg + Paracetamol 325mg|Twice daily after food|5 days
+RX1006|250007|D102|Ursodeoxycholic acid 300mg|Twice daily with meals|30 days

@@ -1,0 +1,9 @@
+250001|Aarav Mehta|29|9876543210|Flat 402, Shanti Heights, Andheri West, Mumbai|B+|Hypertension
+250002|Kavita Deshmukh|42|9876512340|12B, Green Park Extension, New Delhi|O+|Type 2 Diabetes
+250003|Rohan Kulkarni|35|9765432109|Plot 45, Shivaji Nagar, Pune|A+|Mild Asthma
+250004|Sneha Nambiar|27|9654321098|74, Indiranagar 1st Stage, Bengaluru|AB+|None
+250005|Manish Tiwari|58|9543210987|8/2A, Gomti Nagar, Lucknow|O-|Post CABG Follow-up
+250006|Pooja Nair|31|9432109876|21, Panampilly Nagar, Kochi|A-|Allergic Rhinitis
+250007|Aditya Banerjee|46|9321098765|55/1, Salt Lake Sector 1, Kolkata|B-|Fatty Liver Grade 1
+250008|Meera Reddy|23|9210987654|Flat 101, Banjara Hills Road No 12, Hyderabad|O+|None
+250009|Devendra Joshi|34|9123456780|Flat 301, Koregaon Park, Pune|AB+|None

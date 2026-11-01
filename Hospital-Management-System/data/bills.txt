@@ -1,0 +1,8 @@
+B1001|250001|800.000000|Cardiology Consultation & ECG|Paid
+B1002|250002|500.000000|General Physician Consultation & HbA1c screening|Paid
+B1003|250003|500.000000|General Consultation & Allergy check|Paid
+B1004|250004|650.000000|Dermatology Consultation|Pending
+B1005|250005|1250.000000|Cardiology Consultation & 2D Echo|Paid
+B1006|250006|750.000000|Orthopedic Consultation & Knee X-Ray|Paid
+B1007|250007|900.000000|Neurology Consultation|Pending
+B1008|250008|600.000000|Pediatric Consultation|Pending

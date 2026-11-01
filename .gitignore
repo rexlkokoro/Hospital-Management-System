@@ -1,0 +1,10 @@
+# Project digest file
+rexlkokoro-hospital-management-system-8a5edab282632443.txt
+
+# Executables
+*.o
+*.obj
+
+
+*.exe
+**/*.exe
